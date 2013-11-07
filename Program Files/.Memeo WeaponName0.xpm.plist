@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>accessDate</key>
+		<date>2011-10-27T14:14:24Z</date>
+		<key>actualSize</key>
+		<integer>21178</integer>
+		<key>attributeModDate</key>
+		<date>2011-10-27T13:24:21Z</date>
+		<key>createDate</key>
+		<date>2010-11-09T21:50:46Z</date>
+		<key>creationDate</key>
+		<date>2011-11-16T06:51:06Z</date>
+		<key>encrypted</key>
+		<false/>
+		<key>id</key>
+		<string>F3F5E0CC-7922-4878-B2D9-3DE88FB8F83E</string>
+		<key>lastModifiedDate</key>
+		<date>2010-11-09T21:50:46Z</date>
+		<key>originalPath</key>
+		<string>/Users/devendrachaplot/Batch42_CS101_FinalProject_11Nov/Program Files/WeaponName0.xpm</string>
+		<key>originalSize</key>
+		<integer>21178</integer>
+		<key>versionMetadataList</key>
+		<array>
+			<dict>
+				<key>POSIXPermissions</key>
+				<integer>-32348</integer>
+				<key>creatorCode</key>
+				<integer>0</integer>
+				<key>fileType</key>
+				<integer>0</integer>
+				<key>id</key>
+				<string>8895421F-EE71-48E0-A758-EF075F099FEA</string>
+				<key>macAttributes</key>
+				<integer>0</integer>
+				<key>ownerGID</key>
+				<integer>20</integer>
+				<key>ownerUID</key>
+				<integer>501</integer>
+			</dict>
+		</array>
+		<key>versionType</key>
+		<integer>0</integer>
+	</dict>
+</array>
+</plist>

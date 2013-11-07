@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>accessDate</key>
+		<date>2011-10-27T14:14:24Z</date>
+		<key>actualSize</key>
+		<integer>1694375</integer>
+		<key>attributeModDate</key>
+		<date>2011-10-27T13:24:21Z</date>
+		<key>createDate</key>
+		<date>2010-11-09T20:08:23Z</date>
+		<key>creationDate</key>
+		<date>2011-11-16T06:51:06Z</date>
+		<key>encrypted</key>
+		<false/>
+		<key>id</key>
+		<string>21964EB1-0732-4478-AE55-48F5526A28FF</string>
+		<key>lastModifiedDate</key>
+		<date>2010-11-09T20:08:23Z</date>
+		<key>originalPath</key>
+		<string>/Users/devendrachaplot/Batch42_CS101_FinalProject_11Nov/Program Files/TankTypeScreen.xpm</string>
+		<key>originalSize</key>
+		<integer>1694375</integer>
+		<key>versionMetadataList</key>
+		<array>
+			<dict>
+				<key>POSIXPermissions</key>
+				<integer>-32348</integer>
+				<key>creatorCode</key>
+				<integer>0</integer>
+				<key>fileType</key>
+				<integer>0</integer>
+				<key>id</key>
+				<string>8A55DF70-B281-4C6C-BB70-D38ED2491E5E</string>
+				<key>macAttributes</key>
+				<integer>0</integer>
+				<key>ownerGID</key>
+				<integer>20</integer>
+				<key>ownerUID</key>
+				<integer>501</integer>
+			</dict>
+		</array>
+		<key>versionType</key>
+		<integer>0</integer>
+	</dict>
+</array>
+</plist>

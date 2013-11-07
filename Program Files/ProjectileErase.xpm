@@ -1,0 +1,19 @@
+/* XPM */
+static char *ProjectileErase[] = {
+/* columns rows colors chars-per-pixel */
+"10 10 3 1",
+"  c #010000",
+". c #020100",
+"X c #020001",
+/* pixels */
+"     .    ",
+"   .....  ",
+"   .....  ",
+"  ........",
+"XXXX...XXX",
+" XXX..XXXX",
+"  XXXXXXXX",
+"   XXXXX  ",
+"   XXXX   ",
+"   XXXX   "
+};

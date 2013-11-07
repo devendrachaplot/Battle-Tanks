@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>accessDate</key>
+		<date>2011-10-27T14:14:21Z</date>
+		<key>actualSize</key>
+		<integer>6627</integer>
+		<key>attributeModDate</key>
+		<date>2011-10-27T13:24:21Z</date>
+		<key>createDate</key>
+		<date>2010-11-01T21:55:52Z</date>
+		<key>creationDate</key>
+		<date>2011-11-16T06:51:06Z</date>
+		<key>encrypted</key>
+		<false/>
+		<key>id</key>
+		<string>B61B1FC3-85CA-4E1A-AAC3-2343BCD1EC01</string>
+		<key>lastModifiedDate</key>
+		<date>2010-11-01T21:55:52Z</date>
+		<key>originalPath</key>
+		<string>/Users/devendrachaplot/Batch42_CS101_FinalProject_11Nov/Program Files/Terrain2.xpm</string>
+		<key>originalSize</key>
+		<integer>6627</integer>
+		<key>versionMetadataList</key>
+		<array>
+			<dict>
+				<key>POSIXPermissions</key>
+				<integer>-32275</integer>
+				<key>creatorCode</key>
+				<integer>0</integer>
+				<key>fileType</key>
+				<integer>0</integer>
+				<key>id</key>
+				<string>7557E765-6C1B-4683-9D5D-A1DDCA2DAAB4</string>
+				<key>macAttributes</key>
+				<integer>0</integer>
+				<key>ownerGID</key>
+				<integer>20</integer>
+				<key>ownerUID</key>
+				<integer>501</integer>
+			</dict>
+		</array>
+		<key>versionType</key>
+		<integer>0</integer>
+	</dict>
+</array>
+</plist>

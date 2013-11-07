@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>accessDate</key>
+		<date>2011-11-02T18:50:27Z</date>
+		<key>actualSize</key>
+		<integer>237826</integer>
+		<key>attributeModDate</key>
+		<date>2011-10-27T13:24:21Z</date>
+		<key>createDate</key>
+		<date>2010-11-11T14:21:33Z</date>
+		<key>creationDate</key>
+		<date>2011-11-16T06:50:54Z</date>
+		<key>encrypted</key>
+		<false/>
+		<key>id</key>
+		<string>2633115E-DE39-4D67-83B0-92F9EF720E9A</string>
+		<key>lastModifiedDate</key>
+		<date>2010-11-11T14:21:33Z</date>
+		<key>originalPath</key>
+		<string>/Users/devendrachaplot/Batch42_CS101_FinalProject_11Nov/Program Files/PocketTanks</string>
+		<key>originalSize</key>
+		<integer>237826</integer>
+		<key>versionMetadataList</key>
+		<array>
+			<dict>
+				<key>POSIXPermissions</key>
+				<integer>-32275</integer>
+				<key>creatorCode</key>
+				<integer>0</integer>
+				<key>fileType</key>
+				<integer>0</integer>
+				<key>id</key>
+				<string>F098B6B3-F9F1-4282-8AC8-1AF3A3E69741</string>
+				<key>macAttributes</key>
+				<integer>0</integer>
+				<key>ownerGID</key>
+				<integer>20</integer>
+				<key>ownerUID</key>
+				<integer>501</integer>
+			</dict>
+		</array>
+		<key>versionType</key>
+		<integer>0</integer>
+	</dict>
+</array>
+</plist>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>accessDate</key>
+		<date>2011-07-15T18:04:01Z</date>
+		<key>actualSize</key>
+		<integer>38878</integer>
+		<key>attributeModDate</key>
+		<date>2011-01-28T14:56:26Z</date>
+		<key>createDate</key>
+		<date>2011-01-28T14:56:26Z</date>
+		<key>creationDate</key>
+		<date>2011-11-16T06:38:35Z</date>
+		<key>encrypted</key>
+		<false/>
+		<key>id</key>
+		<string>E0A54966-2379-4147-9354-CABDB976EC11</string>
+		<key>lastModifiedDate</key>
+		<date>2011-01-28T14:56:26Z</date>
+		<key>originalPath</key>
+		<string>/Users/devendrachaplot/Pictures/Battle Tanks/Weapons.jpg</string>
+		<key>originalSize</key>
+		<integer>38878</integer>
+		<key>versionMetadataList</key>
+		<array>
+			<dict>
+				<key>POSIXPermissions</key>
+				<integer>-32348</integer>
+				<key>creatorCode</key>
+				<integer>0</integer>
+				<key>fileType</key>
+				<integer>0</integer>
+				<key>id</key>
+				<string>91130F6A-84C3-4419-8E52-AB82A465A36E</string>
+				<key>macAttributes</key>
+				<integer>0</integer>
+				<key>ownerGID</key>
+				<integer>20</integer>
+				<key>ownerUID</key>
+				<integer>501</integer>
+			</dict>
+		</array>
+		<key>versionType</key>
+		<integer>0</integer>
+	</dict>
+</array>
+</plist>
